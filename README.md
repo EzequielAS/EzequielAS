@@ -1,4 +1,4 @@
-# Hey There
+# Hey, Ezequiel here 🦁
 My name is Ezequiel, I'm from Brazil 🇧🇷. Today I'm studying System Information at university and interning as front-end developer.
 
 ### Languages 👨‍💻

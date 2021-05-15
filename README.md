@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hey There
+My name is Ezequiel, I'm from Brazil 🇧🇷. Today I'm studying System Information at university and interning as front-end developer.
 
-<!--
-**EzequielAS/EzequielAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages 👨‍💻
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielAS&layout=compact&theme=dark&count_private=true" width="350"></a>
+</p>
+<p align='center'>
+  <a href="https://wa.me/5579991542456?text=Olá!%20Ezequiel%20vim%20do%20Github">
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
+  </a>
+  <a href="https://www.linkedin.com/in/ezequiel-alves-3b09a21a6/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/_ezequielalves_/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>
+  </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

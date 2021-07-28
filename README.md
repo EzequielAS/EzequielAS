@@ -12,7 +12,7 @@ My name is Ezequiel, I'm from Brazil 🇧🇷. Today I'm studying System Informa
   <a href="https://www.linkedin.com/in/ezequiel-alves-3b09a21a6/" target="__blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/_ezequielalves_/" target="__blank">
+  <a href="https://www.instagram.com/ezequiel.alves0/" target="__blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>
   </p>

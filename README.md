@@ -1,5 +1,5 @@
 # Hey, Ezequiel here 🦁
-My name is Ezequiel, from Brazil 🇧🇷. Today I'm studying System Information at university and interning as front-end developer.
+My name is Ezequiel, from Brazil 🇧🇷. Today I'm studying System Information at university and working as fullstack developer.
 
 ### Languages 👨‍💻
 <p align='center'>

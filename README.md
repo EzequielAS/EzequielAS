@@ -4,8 +4,10 @@ My name is Ezequiel, from Brazil 🇧🇷. Today I'm studying System Information
 ### Stats 📈📊
 <p align='center'>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielAS&layout=compact&theme=dark&count_private=true" width="320">
-
-    <img src="https://github-readme-stats.vercel.app/api?username=EzequielAS&show_icons=true&count_private=true&theme=dark" width="380">
+    
+    <a>
+        <img src="https://github-readme-stats.vercel.app/api?username=EzequielAS&show_icons=true&count_private=true&theme=dark" width="380">
+    </a>
 </p>
   
 <p align='center'>

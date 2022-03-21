@@ -1,7 +1,7 @@
 # Hey, Ezequiel here 🦁
 My name is Ezequiel, from Brazil 🇧🇷. Today I'm studying System Information at university and working as fullstack developer.
 
-### Stats 📈
+### Stats 📈📊
 <p align='center'>
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielAS&layout=compact&theme=dark&count_private=true" width="320">

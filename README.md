@@ -8,7 +8,7 @@ My name is Ezequiel, from Brazil 🇧🇷. Today I'm studying System Information
     </a>
     
     <a href="#">
-       <img src="https://github-readme-stats.vercel.app/api?username=EzequielAS&show_icons=true&count_private=true&theme=dark" width="380">
+       <img src="https://github-readme-stats.vercel.app/api?username=EzequielAS&show_icons=true&count_private=true&theme=dark" width="310">
     </a>
 </p>
   

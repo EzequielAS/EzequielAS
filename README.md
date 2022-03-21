@@ -4,11 +4,11 @@ My name is Ezequiel, from Brazil 🇧🇷. Today I'm studying System Information
 ### Languages 👨‍💻
 <p align='center'>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielAS&layout=compact&theme=dark&count_private=true" width="300">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielAS&layout=compact&theme=dark&count_private=true" width="320">
   </a>
 
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=EzequielAS&show_icons=true&count_private=true&theme=dark" width="300">
+    <img src="https://github-readme-stats.vercel.app/api?username=EzequielAS&show_icons=true&count_private=true&theme=dark" width="400">
   </a>
 </p>
   

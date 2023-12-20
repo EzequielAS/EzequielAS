@@ -1,5 +1,5 @@
 # Hey, Ezequiel here 🦁
-My name is Ezequiel, from Brazil 🇧🇷. I'm graduated in Information System and work as frontend developer.
+My name is Ezequiel, from Brazil 🇧🇷. I'm graduated in Information Systems and work as frontend developer.
 
 ### Stats 📈📊
 <p align='center'>

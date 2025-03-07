@@ -1,21 +1,20 @@
 # Hey, Ezequiel here
-My name is Ezequiel, from Brazil 🇧🇷.
 
-🚀 Frontend Engineer | Software Architect
-I am a Software Engineer with 5+ years of experience designing scalable and performant applications. I thrive on solving complex engineering problems by designing robust architectures and leading development teams toward high-impact solutions
+## 🚀 Frontend Engineer | Software Architect
+I am a Software Engineer from Brazil with 5+ years of experience designing scalable and performant applications. I thrive on solving complex engineering problems by designing robust architectures and leading development teams toward high-impact solutions
 
-💡 Key Technical Skills:
-Frontend Development: React.js, Next.js and AEM
-Backend Development: Node.js, Express.js and Fastify
-Cloud: AWS (EC2)
-Databases: SQL Server, Firebase and PostgreSQL
-DevOps & CI/CD: Docker, GitHub Actions and Azure Pipelines
-Software Quality: TDD, automated testing and code refactoring
+## 💡 Key Technical Skills:
+- Frontend Development: React.js, Next.js and AEM
+- Backend Development: Node.js, Express.js and Fastify
+- Cloud: AWS (EC2)
+- Databases: SQL Server, Firebase and PostgreSQL
+- DevOps & CI/CD: Docker, GitHub Actions and Azure Pipelines
+- Software Quality: TDD, automated testing and code refactoring
 
-🏆 Achievements:
-✅ Development of the platform of the largest Brazilian airline: Azul (Wefit) – Built with AEM (Adobe Experience Manager) and React, it was the biggest project I had contact with and where I needed to develop skills to work with Adobe tools and solve scalability problems for large audiences.
-✅ User profile and Azul New Home (Wefit) – First large-scale project using Next.js with the new RSC architecture. I had experience dealing with frontend architecture and leading a team of 5 people.
-✅ CRM and Delivery Platform (Inove System) – Project developed from scratch covering database, backend and frontend. It was a delivery platform with CRM for retailers that offered a complete registration and product/stock management service, as well as a dashboard with all sales and output data.
+## 🏆 Achievements:
+- ✅ Development of the platform of the largest Brazilian airline: Azul (Wefit) – Built with AEM (Adobe Experience Manager) and React, it was the biggest project I had contact with and where I needed to develop skills to work with Adobe tools and solve scalability problems for large audiences.
+- ✅ User profile and Azul New Home (Wefit) – First large-scale project using Next.js with the new RSC architecture. I had experience dealing with frontend architecture and leading a team of 5 people.
+- ✅ CRM and Delivery Platform (Inove System) – Project developed from scratch covering database, backend and frontend. It was a delivery platform with CRM for retailers that offered a complete registration and product/stock management service, as well as a dashboard with all sales and output data.
 
 ### Stats 📈📊
 <p align='center'>

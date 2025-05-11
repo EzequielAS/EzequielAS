@@ -1,10 +1,10 @@
 # Hey, Ezequiel here
 
-## 🚀 Frontend Engineer | Software Architect
+## 🚀 Fullstack Engineer | Software Architect
 I am a Software Engineer from Brazil with 5+ years of experience designing scalable and performant applications. I thrive on solving complex engineering problems by designing robust architectures and leading development teams toward high-impact solutions
 
 ## 💡 Key Technical Skills:
-- Frontend Development: React.js, Next.js and AEM
+- Frontend Development: React.js, Next.js and Angular
 - Backend Development: Node.js, Express.js and Fastify
 - Cloud: AWS (EC2)
 - Databases: SQL Server, Firebase and PostgreSQL

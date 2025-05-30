@@ -1,6 +1,6 @@
 # Hey, Ezequiel here
 
-## 🚀 Fullstack Engineer | Software Architect
+## 🚀 Frontend Engineer | Software Architect
 I am a Software Engineer from Brazil with 5+ years of experience designing scalable and performant applications. I thrive on solving complex engineering problems by designing robust architectures and leading development teams toward high-impact solutions
 
 ## 💡 Key Technical Skills:

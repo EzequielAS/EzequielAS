@@ -11,7 +11,7 @@ Databases: SQL Server, Firebase and PostgreSQL
 DevOps & CI/CD: Docker, GitHub Actions and Azure Pipelines
 Software Quality: TDD, automated testing and code refactoring
 
-##🏆 Achievements:
+## 🏆 Achievements:
 ✅ AI-powered chat application, a time tracking platform, a project monitoring dashboard, and other projects within an internal ecosystem of microfrontends and backend modularization. (Wefit)
 ✅ Main web platform for largest Brazilian airline: Azul (Wefit) – Built with AEM (Adobe Experience Manager) and React, it was the biggest project I had contact with and where I needed to develop skills to work with Adobe tools and solve scalability problems for large audiences.
 ✅ Azul user profile (Wefit) – First large-scale project using Next.js with the new RSC architecture. I had experience dealing with frontend architecture.

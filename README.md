@@ -19,13 +19,13 @@ Experienced in designing modular, maintainable systems and improving performance
 - Designed and built a CRM and delivery platform from scratch, covering database modeling, backend APIs, and frontend application. Delivered a complete solution for product/stock management, sales tracking, and analytics dashboards
 
 ### Stats 📈📊
-<p align='center'>
+<p align='left'>
     <a href="#"> 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielAS&layout=compact&theme=dark&count_private=true" width="250">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielAS&layout=compact&theme=dark&count_private=true" width="300">
     </a>
 </p>
   
-<p align='center'>
+<p align='left'>
   <a href="https://www.linkedin.com/in/ezequiel-alves0/" target="__blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>

@@ -1,40 +1,33 @@
 # Hey, Ezequiel here
 
-## 🚀 Software Engineer | Software Architect
-I am a Software Engineer with 5+ years of experience designing scalable and performant applications. I thrive on solving complex engineering problems by designing robust architectures and leading development teams toward high-impact solutions
+### 🚀 Software Engineer | Frontend Architecture | Scalable Systems
+Software Engineer with 5+ years of experience building scalable and high-performance web applications, with a strong focus on frontend architecture and microfrontend ecosystems.
+Experienced in designing modular, maintainable systems and improving performance for large-scale platforms. Comfortable working in cross-functional teams, driving technical decisions, and delivering user-focused solutions in complex environments.
 
-## 💡 Key Technical Skills:
-- Frontend Development: React.js, Next.js and Microfrontend
-- Backend Development: Node.js
-- Cloud: AWS
-- Databases: SQL Server, Firebase and PostgreSQL
-- DevOps & CI/CD: Docker, GitHub Actions and Azure Pipelines
-- Software Quality: TDD, automated testing and code refactoring
+### 💡 Core Skills
+ - Frontend: React.js, Next.js, Microfrontends
+ - Backend: Node.js
+ - Cloud: AWS (EC2, S3, Lambda, Lightsail, ECR, ECS)
+ - Databases: PostgreSQL, SQL Server, Firebase, MongoDB
+ - DevOps: Docker, CI/CD (GitHub Actions, Azure Pipelines)
+ - Practices: TDD, automated testing, refactoring, clean architecture
 
-## 🏆 Achievements:
-- ✅ AI-powered chat application, a time tracking platform, a project monitoring dashboard, and other projects within an internal ecosystem of microfrontends and backend modularization. (Wefit)
-- ✅ Main web platform for largest Brazilian airline: Azul (Wefit) – Built with AEM (Adobe Experience Manager) and React, it was the biggest project I had contact with and where I needed to develop skills to work with Adobe tools and solve scalability problems for large audiences.
-- ✅ Azul user profile (Wefit) – First large-scale project using Next.js with the new RSC architecture. I had experience dealing with frontend architecture.
-- ✅ CRM and Delivery Platform (Inove System) – Project developed from scratch covering database, backend and frontend. It was a delivery platform with CRM for retailers that offered a complete registration and product/stock management service, as well as a dashboard with all sales and output data.
+### 🏆 Selected Experience & Impact
+- Built and maintained a microfrontend ecosystem with modular backend services, contributing to features such as AI-powered chat, time tracking, and project monitoring tools
+- Contributed to the main web platform of Azul Brazilian Airlines, serving millions of users. Worked on scalability and performance optimization in a high-traffic environment using AEM and React 
+- Developed a large-scale user profile platform using Next.js with React Server Components (RSC), contributing to architectural decisions and improving maintainability 
+- Designed and built a CRM and delivery platform from scratch, covering database modeling, backend APIs, and frontend application. Delivered a complete solution for product/stock management, sales tracking, and analytics dashboards
 
 ### Stats 📈📊
 <p align='center'>
     <a href="#"> 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielAS&layout=compact&theme=dark&count_private=true" width="350">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielAS&layout=compact&theme=dark&count_private=true" width="250">
     </a>
 </p>
   
 <p align='center'>
-  <a href="https://wa.me/5579991542456?text=Olá!%20Ezequiel%20vim%20do%20Github" target="__blank">
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
-  </a>
-  
   <a href="https://www.linkedin.com/in/ezequiel-alves0/" target="__blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="https://www.instagram.com/ezequiel.alves0/" target="__blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 

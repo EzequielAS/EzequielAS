@@ -20,14 +20,11 @@ Experienced in designing modular, maintainable systems and improving performance
 
 ### Stats 📈📊
 <p align='left'>
-    <a href="#"> 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielAS&layout=compact&theme=dark&count_private=true" width="300">
-    </a>
+   <img src="./assets/metrics.svg" width="300">
 </p>
-  
+
 <p align='left'>
   <a href="https://www.linkedin.com/in/ezequiel-alves0/" target="__blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-

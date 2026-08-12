@@ -1,4 +1,7 @@
 # Hey, Ezequiel here
+<a href="https://www.linkedin.com/in/ezequiel-alves0/" target="__blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ### 🚀 Software Engineer | Frontend Architecture | Scalable Systems
 Software Engineer with 5+ years of experience building scalable and high-performance web applications, with a strong focus on frontend architecture and microfrontend ecosystems.
@@ -19,12 +22,4 @@ Experienced in designing modular, maintainable systems and improving performance
 - Designed and built a CRM and delivery platform from scratch, covering database modeling, backend APIs, and frontend application. Delivered a complete solution for product/stock management, sales tracking, and analytics dashboards
 
 ### Stats 📈📊
-<p align='left'>
-   <img src="./assets/metrics.svg" width="300">
-</p>
-
-<p align='left'>
-  <a href="https://www.linkedin.com/in/ezequiel-alves0/" target="__blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<img src="./assets/metrics.svg" width="70%">

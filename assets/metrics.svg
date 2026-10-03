@@ -33,14 +33,14 @@
         </div>
       </div>
 
-<pre><div class="stdin"><span class="ps1-path">ezequielas@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>TYPESCRIPT  </b> [##################  ] 86.30%
-<b>GO          </b> [###                 ] 11.14%
-<b>CSS         </b> [#                   ] 1.04 %
-<b>SHELL       </b> [#                   ] 0.38 %
-<b>PYTHON      </b> [#                   ] 0.33 %
+<pre><div class="stdin"><span class="ps1-path">ezequielas@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>TYPESCRIPT  </b> [##################  ] 86.68%
+<b>GO          </b> [###                 ] 10.81%
+<b>CSS         </b> [#                   ] 1.01 %
+<b>SHELL       </b> [#                   ] 0.41 %
+<b>PYTHON      </b> [#                   ] 0.32 %
 <b>HTML        </b> [#                   ] 0.28 %
-<b>SCSS        </b> [#                   ] 0.27 %
-<b>JAVASCRIPT  </b> [#                   ] 0.25 %
+<b>SCSS        </b> [#                   ] 0.26 %
+<b>JAVASCRIPT  </b> [#                   ] 0.24 %
 </div>
 
 </pre>
